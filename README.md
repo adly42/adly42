@@ -1,4 +1,4 @@
-# hey, i'm adly 🦀
+# hey, i'm adly
 
 **marketing @ [NOX](heynox.com)** · canada
 

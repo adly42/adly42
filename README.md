@@ -16,7 +16,7 @@ i build brands, design things, and occasionally wander into places i probably sh
 - 📖 published co-author in a handbook on antimicrobial photoinactivation
 - 🌍 attended the 2025 NATO Youth Summit
 - 🎓 ucalgary class of 2024 and 2025
-- 🎨 i've designed brands for conferences, charities, startups, and a rapper
+- 🎨 i've designed brands for conferences, charities, startups, a powerlifter, and an edm producer
 - 🦀 big fan of carcinization i guess
 
 ---

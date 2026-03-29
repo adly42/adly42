@@ -11,7 +11,7 @@ i build brands, design things, and occasionally wander into places i probably sh
 
 ---
 
-### random facts about me
+### facts about me
 
 - 📖 published co-author in a handbook on antimicrobial photoinactivation
 - 🌍 attended the 2025 NATO Youth Summit

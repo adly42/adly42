@@ -15,10 +15,10 @@ i build brands, design things, and occasionally wander into places i probably sh
 
 - 📖 published co-author in a handbook on antimicrobial photoinactivation
 - 🌍 attended the 2025 NATO Youth Summit
-- 🎓 ucalgary class of 2025
+- 🎓 ucalgary class of 2024 and 2025
 - 🎨 i've designed brands for conferences, charities, startups, and a rapper
 - 🦀 my github status has been "selfie crab" for longer than i'd like to admit
 
 ---
 
-*"i specialize in building brands and communities through marketing, design, and events."*
+i specialize in building brands and communities through marketing, design, and events.

@@ -1,6 +1,6 @@
 # hey, i'm adly 🦀
 
-**marketing @ [NOX](https://nox.chat)** · calgary, canada
+**marketing @ [NOX](heynox.com)** · calgary, canada
 
 i build brands, design things, and occasionally wander into places i probably shouldn't be.
 

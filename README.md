@@ -25,3 +25,4 @@ i do odd jobs for [NOX](https://heynox.com), mostly marketing and design with so
 - 🎷 alto sax (selmer SA80 II), piano, learning EWI
 - 🌊 chair of marketing for CJCA Omatsuri, calgary's japanese cultural festival
 - 🎵 making lofi music as R-YOU
+- 🦀 big fan of carcinization i guess

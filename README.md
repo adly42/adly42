@@ -4,7 +4,7 @@ i do odd jobs for [NOX](https://heynox.com), mostly marketing and design with so
 
 [adlyryo.com](https://adlyryo.com)
 
-<a href="https://www.linkedin.com/in/adly-ryo-azim/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white"><img src="https://cdn.simpleicons.org/linkedin/black" width="18" alt="LinkedIn" /></picture></a>
+<a href="https://www.linkedin.com/in/adly-ryo-azim/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/linkedin.svg?color=white"><img src="https://api.iconify.design/simple-icons/linkedin.svg?color=black" width="18" alt="LinkedIn" /></picture></a>
 &nbsp;&nbsp;
 <a href="https://x.com/adlyryo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/white"><img src="https://cdn.simpleicons.org/x/black" width="18" alt="X" /></picture></a>
 &nbsp;&nbsp;

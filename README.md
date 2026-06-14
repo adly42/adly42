@@ -17,7 +17,7 @@ i do odd jobs for [NOX](https://heynox.com), mostly marketing and design with so
 ### before NOX
 
 - photochemistry research at the university of calgary
-- co-author on the handbook on antimicrobial photoinactivation (springer, 2024)
+- co-author on the handbook on antimicrobial photoinactivation (springer, 2025)
 - design work for conferences, charities, startups, a powerlifter, and an edm producer
 
 ### elsewhere

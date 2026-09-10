@@ -1,6 +1,6 @@
 # hi, i'm adly!
 
-i do odd jobs for [NOX](https://heynox.com), mostly marketing and design with some code. based in calgary, currently sprinting in san francisco.
+marketing, design, and a bit of code. based in calgary.
 
 [adlyryo.com](https://adlyryo.com)
 
